@@ -1,0 +1,18 @@
+.box2{
+    width: 800px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.box2 img{
+    width: 170px;
+    margin: 20px 10px -10px 10px;
+}
+
+.box2 .box_pic2{
+    display: inline-block;
+}
+
+.box2 p{
+    padding-top: 10px;
+}

@@ -1,0 +1,23 @@
+.box .box1{
+    float: left;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: skyblue;
+}
+
+.box .box2{
+    float: left;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: red;
+}
+
+.box .box3{
+    float: left;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: green;
+}

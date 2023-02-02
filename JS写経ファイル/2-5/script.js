@@ -1,0 +1,1 @@
+document.write("月曜日<br>火曜日<br>水曜日");
